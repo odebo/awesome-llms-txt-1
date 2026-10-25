@@ -31,6 +31,7 @@ I'll help you convert the data into the markdown format you've started. I'll con
 - [Codeium](https://docs.codeium.com/llms.txt)
 - [Cog](https://cog.run/llms.txt)
 - [Conductor](https://docs.conductor.is/llms.txt)
+- [CoverNice](https://covernice.com/llms.txt)
 - [CrewAI](https://docs.crewai.com/llms.txt)
 - [Cursor](https://docs.cursor.com/llms.txt)
 - [DaisyUI](https://daisyui.com/llms.txt)
